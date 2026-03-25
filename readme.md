@@ -40,8 +40,8 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ### Configs by Well-Known Companies/Organizations
 
-* [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) ⭐ 148,121 | 🐛 189 | 🌐 JavaScript | 📅 2026-02-24 - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript) ⭐ 148,121 | 🐛 189 | 🌐 JavaScript | 📅 2026-02-24.
-* [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) ⭐ 27,224 | 🐛 99 | 🌐 JavaScript | 📅 2026-03-23 - Contains the ESLint configuration used for projects maintained by the ESLint team.
+* [Airbnb](https://github.com/airbnb/javascript/tree/master/packages/eslint-config-airbnb) ⭐ 148,115 | 🐛 189 | 🌐 JavaScript | 📅 2026-02-24 - Shareable config for [Airbnb's style guide](https://github.com/airbnb/javascript) ⭐ 148,115 | 🐛 189 | 🌐 JavaScript | 📅 2026-02-24.
+* [ESLint](https://github.com/eslint/eslint/tree/master/packages/eslint-config-eslint) ⭐ 27,185 | 🐛 99 | 🌐 JavaScript | 📅 2026-03-24 - Contains the ESLint configuration used for projects maintained by the ESLint team.
 * [Alloy](https://github.com/AlloyTeam/eslint-config-alloy) ⭐ 2,640 | 🐛 10 | 🌐 JavaScript | 📅 2024-01-11 - Progressive ESLint config for your React/Vue/TypeScript projects.
 * [Shopify](https://github.com/Shopify/web-foundation/blob/main/packages/eslint-plugin/README.md) ⭐ 491 | 🐛 21 | 🌐 JavaScript | 📅 2026-03-17 - Shareable config for [Shopify's style guide](https://github.com/Shopify/javascript) ⭐ 263 | 🐛 13 | 📅 2022-07-14.
 * [Wikimedia](https://github.com/wikimedia/eslint-config-wikimedia) ⭐ 33 | 🐛 36 | 🌐 JavaScript | 📅 2026-03-19 - Shareable config for [Wikimedia's style guide](https://www.mediawiki.org/wiki/Manual:Coding_conventions/JavaScript), used by [MediaWiki](https://www.mediawiki.org/).
@@ -56,9 +56,9 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 <!-- lint disable double-link -->
 
-* [Antfu Eslint Config](https://github.com/antfu/eslint-config) ⭐ 6,113 | 🐛 50 | 🌐 JavaScript | 📅 2026-03-17 - Anthony's ESLint config preset.
+* [Antfu Eslint Config](https://github.com/antfu/eslint-config) ⭐ 6,115 | 🐛 50 | 🌐 JavaScript | 📅 2026-03-17 - Anthony's ESLint config preset.
 * [Standard](https://github.com/feross/eslint-config-standard) ⭐ 2,653 | 🐛 29 | 🌐 TypeScript | 📅 2026-03-15 - Shareable config for JavaScript [Standard Style](https://github.com/feross/standard) ⭐ 29,434 | 🐛 129 | 🌐 JavaScript | 📅 2025-07-11.
-* [XO](https://github.com/xojs/eslint-config-xo) ⭐ 282 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-07 - Shareable config for [XO](https://github.com/xojs/xo) ⭐ 7,968 | 🐛 37 | 🌐 TypeScript | 📅 2026-03-14.
+* [XO](https://github.com/xojs/eslint-config-xo) ⭐ 282 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-24 - Shareable config for [XO](https://github.com/xojs/xo) ⭐ 7,969 | 🐛 34 | 🌐 TypeScript | 📅 2026-03-24.
 
 ### Other Configs
 
@@ -74,7 +74,7 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 ## Preconfigured Configs with ESLint Set up
 
 * [Standard](https://github.com/feross/standard) ⭐ 29,434 | 🐛 129 | 🌐 JavaScript | 📅 2025-07-11 - JavaScript Standard Style.
-* [XO](https://github.com/sindresorhus/xo) ⭐ 7,968 | 🐛 37 | 🌐 TypeScript | 📅 2026-03-14 - JavaScript happiness style linter ❤️.
+* [XO](https://github.com/sindresorhus/xo) ⭐ 7,969 | 🐛 34 | 🌐 TypeScript | 📅 2026-03-24 - JavaScript happiness style linter ❤️.
 * [eslint-config-prettier](https://github.com/prettier/eslint-config-prettier) ⭐ 5,871 | 🐛 20 | 🌐 JavaScript | 📅 2026-03-01 - Prettier config for ESlint maintained by Prettier team.
 * [Node.js Standard Style](https://github.com/geek/node-style) ⭐ 6 | 🐛 0 | 🌐 JavaScript | 📅 2017-01-28 - Node.js core config.
 * [Superlint](https://github.com/supermind/superlint) ⭐ 5 | 🐛 0 | 🌐 JavaScript | 📅 2017-07-21 - JavaScript Supermind Style.
@@ -83,8 +83,8 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ### Code Quality
 
-* [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) ⭐ 4,959 | 🐛 377 | 🌐 JavaScript | 📅 2026-03-19 - Various awesome ESLint rules.
-* [SonarJS](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) ⭐ 1,208 | 🐛 24 | 🌐 TypeScript | 📅 2026-03-23 - Rules detecting bugs and suspicious patterns.
+* [Unicorn](https://github.com/sindresorhus/eslint-plugin-unicorn) ⭐ 4,962 | 🐛 378 | 🌐 JavaScript | 📅 2026-03-19 - Various awesome ESLint rules.
+* [SonarJS](https://github.com/SonarSource/SonarJS/blob/master/packages/jsts/src/rules/README.md) ⭐ 1,209 | 🐛 23 | 🌐 TypeScript | 📅 2026-03-24 - Rules detecting bugs and suspicious patterns.
 * [depend](https://github.com/es-tooling/eslint-plugin-depend) ⭐ 478 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-15 - Helps detect dependency tree bloat and redundant polyfills.
 * [GitHub](https://github.com/github/eslint-plugin-github) ⭐ 328 | 🐛 19 | 🌐 JavaScript | 📅 2026-03-21 - Misc. rules from GitHub.
 * [De Morgan](https://github.com/azat-io/eslint-plugin-de-morgan) ⭐ 308 | 🐛 0 | 🌐 TypeScript | 📅 2026-03-18 - Transforms logical expressions in code to make them easier to understand.
@@ -102,12 +102,12 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ### CSS in JS
 
-* [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin) ⭐ 18,009 | 🐛 371 | 🌐 JavaScript | 📅 2025-11-04 - ESLint rules for emotion.
+* [Emotion](https://github.com/emotion-js/emotion/tree/master/packages/eslint-plugin) ⭐ 18,010 | 🐛 371 | 🌐 JavaScript | 📅 2025-11-04 - ESLint rules for emotion.
 * [CSS-modules](https://github.com/atfzl/eslint-plugin-css-modules) ⭐ 155 | 🐛 36 | 🌐 JavaScript | 📅 2024-11-29 - Lint undefined or unused rules for css modules.
 * Styled Components
   * [styled-components-a11y](https://github.com/brendanmorrell/eslint-plugin-styled-components-a11y) ⭐ 155 | 🐛 7 | 🌐 JavaScript | 📅 2026-01-22 - A11y for Styled Components.
   * [Better Styled Components](https://github.com/tinloof/eslint-plugin-better-styled-components) ⭐ 66 | 🐛 12 | 🌐 JavaScript | 📅 2022-12-30 - Auto fixable ESlint's rules for styled components.
-* [vanilla-extract](https://github.com/antebudimir/eslint-plugin-vanilla-extract) ⭐ 32 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-01 - An ESLint plugin for enforcing CSS property ordering in [vanilla-extract CSS](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,327 | 🐛 73 | 🌐 TypeScript | 📅 2026-03-22 styles.
+* [vanilla-extract](https://github.com/antebudimir/eslint-plugin-vanilla-extract) ⭐ 32 | 🐛 3 | 🌐 TypeScript | 📅 2025-12-01 - An ESLint plugin for enforcing CSS property ordering in [vanilla-extract CSS](https://github.com/vanilla-extract-css/vanilla-extract) ⭐ 10,329 | 🐛 73 | 🌐 TypeScript | 📅 2026-03-24 styles.
 
 ### Deprecation
 
@@ -116,34 +116,34 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ### Embedded
 
-* [Markdown](https://github.com/eslint/eslint-plugin-markdown) ⭐ 545 | 🐛 14 | 🌐 JavaScript | 📅 2026-03-23 - Linting for JavaScript inside of Markdown.
+* [Markdown](https://github.com/eslint/eslint-plugin-markdown) ⭐ 545 | 🐛 12 | 🌐 JavaScript | 📅 2026-03-24 - Linting for JavaScript inside of Markdown.
 * [HTML](https://github.com/BenoitZugmeyer/eslint-plugin-html) ⭐ 453 | 🐛 18 | 🌐 JavaScript | 📅 2026-03-23 - Linting for JavaScript inside of HTML `<script>` tags.
 
 ### Frameworks
 
 * React
-  * [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) ⭐ 244,175 | 🐛 1,179 | 🌐 JavaScript | 📅 2026-03-24 - Linting rules for React Hooks.
+  * [React Hooks](https://github.com/facebook/react/tree/master/packages/eslint-plugin-react-hooks) ⭐ 244,160 | 🐛 1,176 | 🌐 JavaScript | 📅 2026-03-24 - Linting rules for React Hooks.
   * [React](https://github.com/yannickcr/eslint-plugin-react) ⭐ 9,278 | 🐛 340 | 🌐 JavaScript | 📅 2026-03-11 - Linting rules for React and JSX.
-  * [JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) ⭐ 3,570 | 🐛 128 | 🌐 JavaScript | 📅 2026-01-06 - Accessibility rules on JSX elements.
+  * [JSX a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y) ⭐ 3,571 | 🐛 128 | 🌐 JavaScript | 📅 2026-01-06 - Accessibility rules on JSX elements.
   * [React Native](https://github.com/Intellicode/eslint-plugin-react-native) ⭐ 762 | 🐛 84 | 🌐 JavaScript | 📅 2024-12-30 - React Native specific linting rules.
-  * [React Refresh](https://github.com/ArnaudBarre/eslint-plugin-react-refresh) ⭐ 331 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-23 - Improve HMR experience when using Vite.
+  * [React Refresh](https://github.com/ArnaudBarre/eslint-plugin-react-refresh) ⭐ 332 | 🐛 6 | 🌐 TypeScript | 📅 2026-02-23 - Improve HMR experience when using Vite.
   * [React-Redux](https://github.com/DianaSuvorova/eslint-plugin-react-redux) ⭐ 83 | 🐛 31 | 🌐 JavaScript | 📅 2025-03-25 - React-Redux specific linting rules.
-* [Meteor](https://github.com/meteor/meteor/tree/devel/npm-packages/eslint-plugin-meteor) ⭐ 44,781 | 🐛 368 | 🌐 JavaScript | 📅 2026-03-23 - Meteor specific linting rules for ESLint.
+* [Meteor](https://github.com/meteor/meteor/tree/devel/npm-packages/eslint-plugin-meteor) ⭐ 44,784 | 🐛 368 | 🌐 JavaScript | 📅 2026-03-24 - Meteor specific linting rules for ESLint.
 * Vue
   * [VueJS](https://github.com/vuejs/eslint-plugin-vue) ⭐ 4,601 | 🐛 205 | 🌐 TypeScript | 📅 2026-03-16 - Plugin for VueJS.
   * [VueJS Scoped CSS](https://github.com/future-architect/eslint-plugin-vue-scoped-css) ⭐ 108 | 🐛 16 | 🌐 TypeScript | 📅 2026-03-23 - Plugin for Scoped CSS in VueJS.
-* [Angular](https://github.com/angular-eslint/angular-eslint) ⭐ 1,779 | 🐛 37 | 🌐 TypeScript | 📅 2026-03-22 - Linting rules for Angular (v2+).
+* [Angular](https://github.com/angular-eslint/angular-eslint) ⭐ 1,779 | 🐛 36 | 🌐 TypeScript | 📅 2026-03-22 - Linting rules for Angular (v2+).
 * [AngularJS](https://github.com/Gillespie59/eslint-plugin-angular) ⭐ 621 | 🐛 73 | 🌐 JavaScript | 📅 2025-11-14 - Linting rules to adhere to the [John Papa's AngularJS Styleguide](https://github.com/johnpapa/angular-styleguide) ⭐ 23,697 | 🐛 77 | 📅 2022-05-19.
 * [Astro](https://github.com/ota-meshi/eslint-plugin-astro) ⭐ 410 | 🐛 27 | 🌐 TypeScript | 📅 2026-03-23 - Plugin for [Astro components](https://docs.astro.build/en/core-concepts/astro-components/).
-* [Svelte](https://github.com/sveltejs/eslint-plugin-svelte) ⭐ 395 | 🐛 128 | 🌐 TypeScript | 📅 2026-03-22 - Linting rules for Svelte v3 Components.
-* [Ember](https://github.com/ember-cli/eslint-plugin-ember) ⭐ 261 | 🐛 148 | 🌐 JavaScript | 📅 2026-03-23 - Linting rules for Ember.
+* [Svelte](https://github.com/sveltejs/eslint-plugin-svelte) ⭐ 395 | 🐛 129 | 🌐 TypeScript | 📅 2026-03-22 - Linting rules for Svelte v3 Components.
+* [Ember](https://github.com/ember-cli/eslint-plugin-ember) ⭐ 261 | 🐛 147 | 🌐 JavaScript | 📅 2026-03-24 - Linting rules for Ember.
 * [Solid](https://github.com/joshwilsonvu/eslint-plugin-solid) ⭐ 258 | 🐛 43 | 🌐 TypeScript | 📅 2026-02-26 - Linting rules for Solid and JSX.
 * [Backbone](https://github.com/ilyavolodin/eslint-plugin-backbone) ⭐ 92 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-06 - Linting rules for Backbone.
 * [Hapi](https://github.com/continuationlabs/eslint-plugin-hapi) ⭐ 22 | 🐛 2 | 🌐 JavaScript | 📅 2024-10-22 - Linting rules for hapi.
 
 ### Languages and Environments
 
-* [Babel](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) ⭐ 43,911 | 🐛 756 | 🌐 TypeScript | 📅 2026-03-23 - Adds replacements for built-in rules to include Babel features.
+* [Babel](https://github.com/babel/babel/tree/main/eslint/babel-eslint-plugin) ⭐ 43,911 | 🐛 756 | 🌐 TypeScript | 📅 2026-03-24 - Adds replacements for built-in rules to include Babel features.
 * Flow
   * [Flow](https://github.com/gajus/eslint-plugin-flowtype) ⭐ 1,070 | 🐛 40 | 🌐 JavaScript | 📅 2024-02-29 - Flow type linting rules.
   * [Flow Errors](https://github.com/amilajack/eslint-plugin-flowtype-errors) ⭐ 403 | 🐛 14 | 🌐 JavaScript | 📅 2022-03-26 - Run Flow as an ESLint plugin.
@@ -152,7 +152,7 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 * [HTML](https://github.com/yeonjuan/html-eslint) ⭐ 256 | 🐛 29 | 🌐 JavaScript | 📅 2026-03-14 - ESLint plugin for HTML.
 * JSON
   * [JSON with Comments](https://github.com/ota-meshi/eslint-plugin-jsonc) ⭐ 233 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-23 - ESLint plugin for JSON, JSONC and JSON5.
-  * [eslint-plugin-package-json](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json) ⭐ 229 | 🐛 25 | 🌐 TypeScript | 📅 2026-03-23 - Rules for consistent, readable, and valid package.json files.
+  * [eslint-plugin-package-json](https://github.com/JoshuaKGoldberg/eslint-plugin-package-json) ⭐ 229 | 🐛 25 | 🌐 TypeScript | 📅 2026-03-24 - Rules for consistent, readable, and valid package.json files.
   * [JSON](https://github.com/azeemba/eslint-plugin-json) ⭐ 215 | 🐛 19 | 🌐 JavaScript | 📅 2024-08-14 - Lint your JSON files.
   * [JSON Schema](https://github.com/ota-meshi/eslint-plugin-json-schema-validator) ⭐ 94 | 🐛 11 | 🌐 TypeScript | 📅 2026-03-23 - Validates data defined in JavaScript, JSON, YAML and TOML using JSON Schema Validator.
   * [JSON, package.json](https://github.com/Bkucera/eslint-plugin-json-format) ⭐ 41 | 🐛 39 | 🌐 JavaScript | 📅 2023-01-04 - Lint, format, and auto-fix your JSON files. Sort your `package.json`.
@@ -166,12 +166,12 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ### Libraries
 
-* [Tailwind CSS](https://github.com/francoismassart/eslint-plugin-tailwindcss) ⭐ 2,054 | 🐛 137 | 🌐 JavaScript | 📅 2025-09-15 - Linting rules for Tailwind CSS classnames.
+* [Tailwind CSS](https://github.com/francoismassart/eslint-plugin-tailwindcss) ⭐ 2,055 | 🐛 137 | 🌐 JavaScript | 📅 2025-09-15 - Linting rules for Tailwind CSS classnames.
 * GraphQL
-  * [apollostack/eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) ⭐ 1,216 | 🐛 100 | 🌐 JavaScript | 📅 2026-03-20 - Check your GraphQL query strings against a schema.
+  * [apollostack/eslint-plugin-graphql](https://github.com/apollostack/eslint-plugin-graphql) ⭐ 1,216 | 🐛 100 | 🌐 JavaScript | 📅 2026-03-24 - Check your GraphQL query strings against a schema.
   * [dotansimha/graphql-eslint](https://github.com/dotansimha/graphql-eslint) ⭐ 832 | 🐛 80 | 🌐 TypeScript | 📅 2026-03-18 - Validates, prettifies and checks your GraphQL operations and GraphQL schema for best-practices.
 * [JSDoc](https://github.com/gajus/eslint-plugin-jsdoc) ⭐ 1,205 | 🐛 33 | 🌐 JavaScript | 📅 2026-03-14 - Linting rules for JSDoc comments (including the JavaScript within `@example`).
-* [Tailwind CSS v4](https://github.com/schoero/eslint-plugin-better-tailwindcss) ⭐ 735 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-05 - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
+* [Tailwind CSS v4](https://github.com/schoero/eslint-plugin-better-tailwindcss) ⭐ 737 | 🐛 22 | 🌐 TypeScript | 📅 2026-03-05 - ESLint plugin to help you write better tailwindcss by improving readability with formatting rules and enforcing best practices with linting rules.
 * Lodash
   * [Lodash](https://github.com/wix/eslint-plugin-lodash) ⭐ 275 | 🐛 64 | 🌐 JavaScript | 📅 2024-02-01 - Lodash specific linting rules.
   * [Lodash/fp](https://github.com/jfmengels/eslint-plugin-lodash-fp) ⭐ 150 | 🐛 33 | 🌐 JavaScript | 📅 2023-01-04 - Lodash/fp specific linting rules.
@@ -185,7 +185,7 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ### Misc
 
-* [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) ⭐ 781 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23 - an ESLint plugin integrates [putout](https://github.com/coderaiser/putout) ⭐ 781 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23 linter into ESLint.
+* [PutOut](https://github.com/coderaiser/putout/tree/master/packages/eslint-plugin-putout) ⭐ 782 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23 - an ESLint plugin integrates [putout](https://github.com/coderaiser/putout) ⭐ 782 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23 linter into ESLint.
 * [Diff](https://github.com/paleite/eslint-plugin-diff) ⭐ 209 | 🐛 1 | 🌐 TypeScript | 📅 2026-03-05 - Run ESLint on your changed lines only. Also supports CI!
 * [Only-Warn](https://github.com/bfanger/eslint-plugin-only-warn) ⭐ 183 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-28 - Convert all rules to warnings.
 * [TypeLint](https://github.com/yarax/eslint-plugin-typelint) ⭐ 172 | 🐛 1 | 🌐 JavaScript | 📅 2018-06-13 - Introduces types, based on existing schemas (Swagger, Redux) and linting access to object properties, preventing `undefined` errors.
@@ -196,11 +196,11 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ### Practices and Specific ES Features
 
-* [import](https://github.com/benmosher/eslint-plugin-import) ⭐ 5,887 | 🐛 595 | 🌐 JavaScript | 📅 2026-03-05 - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
+* [import](https://github.com/benmosher/eslint-plugin-import) ⭐ 5,889 | 🐛 595 | 🌐 JavaScript | 📅 2026-03-05 - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names.
 * [fp](https://github.com/jfmengels/eslint-plugin-fp) ⭐ 972 | 🐛 31 | 🌐 JavaScript | 📅 2021-01-01 - ESLint rules for functional programming.
 * [functional](https://github.com/jonaskello/eslint-plugin-functional) ⭐ 968 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-15 - ESLint rules to disable mutation and promote fp in JavaScript and TypeScript.
 * [Immutable](https://github.com/jhusain/eslint-plugin-immutable) ⭐ 911 | 🐛 13 | 🌐 JavaScript | 📅 2019-11-06 - Disable all mutation in JavaScript.
-* [boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) ⭐ 808 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-23 - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
+* [boundaries](https://github.com/javierbrea/eslint-plugin-boundaries) ⭐ 809 | 🐛 17 | 🌐 TypeScript | 📅 2026-03-24 - Ensures that your architecture boundaries are respected by the elements in your project checking file structure and dependencies.
 * [import-x](https://github.com/un-ts/eslint-plugin-import-x) ⭐ 679 | 🐛 73 | 🌐 TypeScript | 📅 2026-03-16 - Linting of ES2015+ import/export syntax, and prevent issues with misspelling of file paths and import names. Lightweight fork of `eslint-plugin-import`, but which breaks backwards compatibility.
 * [eslint-plugin-hexagonal-architecture](https://github.com/CodelyTV/eslint-plugin-hexagonal-architecture) ⭐ 315 | 🐛 3 | 🌐 TypeScript | 📅 2022-09-23 - A plugin that helps you to enforce hexagonal architecture best practices.
 * [arrow functions](https://github.com/getify/eslint-plugin-proper-arrows) ⭐ 309 | 🐛 5 | 🌐 JavaScript | 📅 2024-12-27 - ESLint rules to ensure proper arrow function definitions.
@@ -210,7 +210,7 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 * [eslint-plugin-write-good-comments](https://github.com/kantord/eslint-plugin-write-good-comments) ⭐ 41 | 🐛 1 | 🌐 JavaScript | 📅 2026-02-28 - Enforce good writing style in comments.
 * [new-with-error](https://github.com/Trott/eslint-plugin-new-with-error) ⭐ 26 | 🐛 0 | 🌐 JavaScript | 📅 2026-03-23 - Require errors to be thrown using `new`.
 * [eslint-plugin-error-cause](https://github.com/Amnish04/eslint-plugin-error-cause) ⚠️ Archived - A plugin to preserve original error context when re-throwing exceptions.
-* [Math](https://github.com/ota-meshi/eslint-plugin-math) ⭐ 15 | 🐛 5 | 🌐 TypeScript | 📅 2026-03-23 - ESLint plugin related to Math object and Number.
+* [Math](https://github.com/ota-meshi/eslint-plugin-math) ⭐ 15 | 🐛 6 | 🌐 TypeScript | 📅 2026-03-24 - ESLint plugin related to Math object and Number.
 * [eslint-plugin-signature-design](https://github.com/Vladyslav-Soldatenko/eslint-plugin-signature-design) ⭐ 1 | 🐛 0 | 🌐 TypeScript | 📅 2025-06-05 - Forbids functions with too many parameters of the same type, encouraging object-based signatures and preventing primitive obsession.
 * [mutate](https://github.com/gchumillas/eslint-plugin-mutate) ⭐ 1 | 🐛 2 | 🌐 JavaScript | 📅 2025-06-25 - Prevent accidental parameter mutations by enforcing explicit `mut` prefix (JavaScript) or `Mut<T>` type annotation (TypeScript).
 
@@ -241,19 +241,19 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 ### Security
 
 * [Security](https://github.com/nodesecurity/eslint-plugin-security) ⭐ 2,336 | 🐛 15 | 🌐 JavaScript | 📅 2026-03-20 - ESLint rules for Node Security.
-* [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) ⭐ 241 | 🐛 33 | 🌐 JavaScript | 📅 2026-03-21 - Checks for `innerHTML`, `outerHTML`, etc.
-* [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) ⭐ 163 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-01 - An eslint plugin that detects potential secrets/credentials.
+* [no-unsanitized](https://github.com/mozilla/eslint-plugin-no-unsanitized) ⭐ 241 | 🐛 32 | 🌐 JavaScript | 📅 2026-03-24 - Checks for `innerHTML`, `outerHTML`, etc.
+* [no-secrets](https://github.com/nickdeis/eslint-plugin-no-secrets) ⭐ 164 | 🐛 8 | 🌐 TypeScript | 📅 2026-03-01 - An eslint plugin that detects potential secrets/credentials.
 * [xss](https://github.com/Rantanen/eslint-plugin-xss) ⭐ 71 | 🐛 7 | 🌐 JavaScript | 📅 2023-08-29 - Tries to detect XSS issues in codebase before they end up in production.
 * [pii](https://github.com/shiva-hack/eslint-plugin-pii) ⭐ 12 | 🐛 1 | 🌐 JavaScript | 📅 2022-04-25 - Checks and enforces PII Compliance of the code. i.e. no email address, birth date, IP address or phone number in comments or string literals.
 * [pg](https://github.com/interlace-collie/eslint/tree/main/packages/eslint-plugin-pg) - PostgreSQL/node-postgres security: SQL injection prevention (CWE-89), connection pool leak detection (CWE-772), transaction safety. 13 rules with CWE mapping.
 
 ### Style
 
-* [perfectionist sorting](https://github.com/azat-io/eslint-plugin-perfectionist) ⭐ 2,844 | 🐛 10 | 🌐 TypeScript | 📅 2026-03-17 - Sort objects, imports, TypeScript types, enums, JSX props, etc.
+* [perfectionist sorting](https://github.com/azat-io/eslint-plugin-perfectionist) ⭐ 2,846 | 🐛 7 | 🌐 TypeScript | 📅 2026-03-24 - Sort objects, imports, TypeScript types, enums, JSX props, etc.
 * [Simple import sort](https://github.com/lydell/eslint-plugin-simple-import-sort) ⭐ 2,417 | 🐛 8 | 🌐 JavaScript | 📅 2026-03-20 - Easy autofixable import sorting.
 * [filenames](https://github.com/selaux/eslint-plugin-filenames) ⭐ 320 | 🐛 26 | 🌐 JavaScript | 📅 2024-07-27 - Ensure consistent filenames for your JavaScript files. No longer maintained and does not work with ESlint 9 at all.
 * [paths](https://github.com/vitonsky/eslint-plugin-paths) ⭐ 86 | 🐛 19 | 🌐 TypeScript | 📅 2025-06-17 - Use paths from tsconfig/jsconfig and auto fix relative paths to aliases.
-* [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) ⭐ 18 | 🐛 4 | 🌐 JavaScript | 📅 2026-03-22 - Switch-case-specific linting rules for ESLint.
+* [Switch case](https://github.com/lukeapage/eslint-plugin-switch-case) ⭐ 18 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-22 - Switch-case-specific linting rules for ESLint.
 * [editorconfig](https://github.com/platinumazure/eslint-plugin-editorconfig) ⭐ 17 | 🐛 4 | 🌐 JavaScript | 📅 2023-10-07 - Derive rules from [`.editorconfig`](https://editorconfig.org/).
 * [split-and-sort-imports](https://github.com/sngn/eslint-plugin-split-and-sort-imports) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2025-04-21 - Sorts imports and splits 'multiple' imports into single line imports.
 * [ESLint Stylistic](https://eslint.style/) - [Formatting and stylistic ESLint core rules moved to this project and are maintained by the community.](https://eslint.org/blog/2023/10/deprecating-formatting-rules/)
@@ -264,21 +264,21 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 ### Testing Tools
 
 * Jest
-  * [Enforcing practices](https://github.com/jest-community/eslint-plugin-jest) ⭐ 1,167 | 🐛 30 | 🌐 TypeScript | 📅 2026-03-23 - Linting rules for Jest.
+  * [Enforcing practices](https://github.com/jest-community/eslint-plugin-jest) ⭐ 1,167 | 🐛 28 | 🌐 TypeScript | 📅 2026-03-25 - Linting rules for Jest.
   * [Jest-DOM](https://github.com/testing-library/eslint-plugin-jest-dom) ⭐ 366 | 🐛 13 | 🌐 JavaScript | 📅 2026-02-13 - Linting rules for Jest-DOM.
   * [Enforcing consistent formatting](https://github.com/dangreenisrael/eslint-plugin-jest-formatting) ⭐ 156 | 🐛 5 | 🌐 JavaScript | 📅 2023-05-21 - Formatting rules for Jest.
   * [Jest-async](https://www.npmjs.com/package/eslint-plugin-jest-async) - Async linting rule for Jest.
-* [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) ⭐ 1,049 | 🐛 34 | 🌐 TypeScript | 📅 2026-03-21 - Linting rules for Testing Library.
-* [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) ⭐ 725 | 🐛 26 | 🌐 JavaScript | 📅 2026-03-18 - Linting rules for Cypress.
+* [Testing Library](https://github.com/testing-library/eslint-plugin-testing-library) ⭐ 1,049 | 🐛 32 | 🌐 TypeScript | 📅 2026-03-24 - Linting rules for Testing Library.
+* [Cypress](https://github.com/cypress-io/eslint-plugin-cypress) ⭐ 725 | 🐛 25 | 🌐 JavaScript | 📅 2026-03-24 - Linting rules for Cypress.
 * [Playwright](https://github.com/playwright-community/eslint-plugin-playwright) ⭐ 377 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-21 - Linting rules for Playwright.
 * Mocha
   * [Enforcing practices](https://github.com/lo1tuma/eslint-plugin-mocha) ⭐ 288 | 🐛 28 | 🌐 TypeScript | 📅 2025-10-13 - Linting rules for Mocha.
   * [Enforcing manageability](https://github.com/onechiporenko/eslint-plugin-mocha-cleanup/) ⭐ 13 | 🐛 14 | 🌐 JavaScript | 📅 2026-03-14
-* [AVA](https://github.com/avajs/eslint-plugin-ava) ⭐ 230 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-10 - Linting rules for AVA.
+* [AVA](https://github.com/avajs/eslint-plugin-ava) ⭐ 232 | 🐛 0 | 🌐 JavaScript | 📅 2026-02-10 - Linting rules for AVA.
 * [Jasmine](https://github.com/tlvince/eslint-plugin-jasmine) ⭐ 101 | 🐛 76 | 🌐 JavaScript | 📅 2024-10-14 - Linting rules for Jasmine.
 * Chai
   * [with unused expressions](https://github.com/ihordiachenko/eslint-plugin-chai-friendly) ⭐ 56 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-17
-  * [expect practices](https://github.com/turbo87/eslint-plugin-chai-expect) ⭐ 28 | 🐛 16 | 🌐 JavaScript | 📅 2026-03-11
+  * [expect practices](https://github.com/turbo87/eslint-plugin-chai-expect) ⭐ 28 | 🐛 16 | 🌐 JavaScript | 📅 2026-03-25
   * [with chai-as-promised plugin](https://github.com/fintechstudios/eslint-plugin-chai-as-promised) ⭐ 4 | 🐛 5 | 🌐 JavaScript | 📅 2024-07-26
   * [permitted keywords](https://github.com/gavinaiken/eslint-plugin-chai-expect-keywords) ⭐ 1 | 🐛 0 | 🌐 JavaScript | 📅 2024-07-28
   <!-- lint disable double-link -->
@@ -289,7 +289,7 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ## Parsers
 
-* [babel-eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) ⭐ 43,911 | 🐛 756 | 🌐 TypeScript | 📅 2026-03-23 - Allows you to lint ALL valid Babel code with the fantastic ESLint.
+* [babel-eslint-parser](https://github.com/babel/babel/tree/main/eslint/babel-eslint-parser) ⭐ 43,911 | 🐛 756 | 🌐 TypeScript | 📅 2026-03-24 - Allows you to lint ALL valid Babel code with the fantastic ESLint.
 * [GraphQL](https://github.com/dotansimha/graphql-eslint) ⭐ 832 | 🐛 80 | 🌐 TypeScript | 📅 2026-03-18 - Parser for the GraphQL AST. Includes parser, plugin, processor (for non-graphql files) and rules.
 * [BrightScript](https://github.com/RokuRoad/eslint-plugin-roku) ⭐ 49 | 🐛 31 | 🌐 TypeScript | 📅 2022-12-07 - BrightScript plugin for Roku development. Includes Parser and Rules.
 * [TypeScript](https://typescript-eslint.io/packages/parser) - A TypeScript parser that produces output compatible with ESLint.
@@ -311,7 +311,7 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 
 ## Globals
 
-* [confusing-browser-globals](https://github.com/facebook/create-react-app/tree/main/packages/confusing-browser-globals) ⭐ 103,810 | 🐛 2,374 | 🌐 JavaScript | 📅 2025-02-15 - A curated list of browser globals that commonly cause confusion and are not recommended to use without an explicit window. qualifier.
+* [confusing-browser-globals](https://github.com/facebook/create-react-app/tree/main/packages/confusing-browser-globals) ⭐ 103,809 | 🐛 2,375 | 🌐 JavaScript | 📅 2025-02-15 - A curated list of browser globals that commonly cause confusion and are not recommended to use without an explicit window. qualifier.
 * [ES and browser globals](https://github.com/sindresorhus/globals) ⭐ 569 | 🐛 10 | 🌐 JavaScript | 📅 2026-03-01 (originally from ESLint)
 * [TestCafe globals](https://github.com/miherlosev/eslint-plugin-testcafe) ⭐ 15 | 🐛 3 | 🌐 JavaScript | 📅 2020-05-12 - `fixture` & `test` globals for TestCafe.
 * [chai globals](https://github.com/t-huth/eslint-plugin-chai-assert-bdd) ⭐ 2 | 🐛 0 | 🌐 JavaScript | 📅 2017-09-14
@@ -321,15 +321,15 @@ If you want to contribute, please read the [contribution guidelines](origin/cont
 * [eslint-nibble](https://github.com/IanVS/eslint-nibble) ⭐ 885 | 🐛 13 | 🌐 JavaScript | 📅 2025-11-21 - Ease into ESLint, by fixing one rule at a time.
 * [esprint](https://github.com/pinterest/esprint) ⭐ 656 | 🐛 23 | 🌐 JavaScript | 📅 2026-02-27 - Run ESLint across multiple threads.
 * [eslint-interactive](https://github.com/mizdra/eslint-interactive) ⭐ 446 | 🐛 4 | 🌐 TypeScript | 📅 2026-02-24 - The CLI tool to fix huge number of ESLint errors.
-* [generator-eslint](https://github.com/eslint/generator-eslint) ⭐ 245 | 🐛 3 | 🌐 JavaScript | 📅 2026-03-19 - Generate ESLint
+* [generator-eslint](https://github.com/eslint/generator-eslint) ⭐ 245 | 🐛 2 | 🌐 JavaScript | 📅 2026-03-24 - Generate ESLint
   plugin and rules with [Yeoman](http://yeoman.io/).
 * [eslint-find-rules](https://github.com/sarbbottam/eslint-find-rules) ⭐ 212 | 🐛 14 | 🌐 JavaScript | 📅 2025-01-20 - Find built-in ESLint rules you don't have in your custom config.
 * [eslint-watch](https://github.com/rizowski/eslint-watch) ⭐ 199 | 🐛 15 | 🌐 JavaScript | 📅 2026-03-08 - Run ESLint with watch mode.
-* [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) ⭐ 130 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-23 - CLI tool for testing given ESlint rules against multiple repositories at once.
+* [eslint-remote-tester](https://github.com/AriPerkkio/eslint-remote-tester) ⭐ 130 | 🐛 3 | 🌐 TypeScript | 📅 2026-03-24 - CLI tool for testing given ESlint rules against multiple repositories at once.
 * [eslint-rule-documentation](https://github.com/jfmengels/eslint-rule-documentation) ⭐ 31 | 🐛 3 | 🌐 JavaScript | 📅 2023-03-11 - Find the url for the documentation of an ESLint rule.
 * [eslint-index](https://github.com/wagerfield/eslint-index) ⭐ 21 | 🐛 8 | 🌐 JavaScript | 📅 2021-08-10 - CLI for finding and managing rules in ESLint config files.
 * [eslint-dashboard](https://github.com/fengzilong/eslint-dashboard) ⭐ 20 | 🐛 0 | 🌐 JavaScript | 📅 2021-09-17 - Interactive ESLint workflow that lives in your terminal.
-* [codacy-eslint](https://github.com/codacy/codacy-eslint) ⭐ 16 | 🐛 44 | 🌐 TypeScript | 📅 2026-03-21 - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
+* [codacy-eslint](https://github.com/codacy/codacy-eslint) ⭐ 16 | 🐛 45 | 🌐 TypeScript | 📅 2026-03-24 - Docker used at [Codacy](https://www.codacy.com) to run ESLint.
 * [eslint-multiplexer](https://github.com/pimlie/eslint-multiplexer) ⭐ 7 | 🐛 11 | 🌐 JavaScript | 📅 2026-03-13 - Multiplex eslint results and merge results for common files.
 * [editor-info](https://github.com/fisker/editor-info) ⭐ 7 | 🐛 15 | 🌐 JavaScript | 📅 2025-03-09 - Detect whether one is within an editor/IDE and which type, allowing one to tweak ESLint configuration accordingly.
 * [es-file-traverse](https://github.com/brettz9/es-file-traverse) ⭐ 2 | 🐛 1 | 🌐 JavaScript | 📅 2026-03-16 - Obtain a list of only those files which are in use based on imports and/or requires from an entry file or files; list passable to ESLint. Intended esp. for linting 3rd party dependencies.
