@@ -18,7 +18,7 @@
             "last_commit": "2026-04-16T19:24:09Z",
             "owner": "airbnb",
             "repo": "javascript",
-            "stars": 148118
+            "stars": 148125
           }
         },
         {
@@ -54,10 +54,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-13T03:30:26Z",
+            "last_commit": "2026-05-13T17:04:35Z",
             "owner": "eslint",
             "repo": "eslint",
-            "stars": 27248
+            "stars": 27251
           }
         },
         {
@@ -196,7 +196,7 @@
             "last_commit": "2026-05-09T10:19:34Z",
             "owner": "EvgenyOrekhov",
             "repo": "eslint-config-hardcore",
-            "stars": 468
+            "stars": 467
           }
         },
         {
@@ -259,6 +259,19 @@
         },
         {
           "children": [],
+          "description": "A powerful ESLint configuration extending the popular Airbnb style guide, with added support for TypeScript.",
+          "title": "eslint-config-airbnb-extended",
+          "repo_info": {
+            "archived": false,
+            "language": "TypeScript",
+            "last_commit": "2026-05-13T07:39:56Z",
+            "owner": "eslint-config",
+            "repo": "airbnb-extended",
+            "stars": 129
+          }
+        },
+        {
+          "children": [],
           "description": "Prettier config for ESlint maintained by Prettier team.",
           "title": "eslint-config-prettier",
           "repo_info": {
@@ -267,7 +280,7 @@
             "last_commit": "2026-03-01T01:11:53Z",
             "owner": "prettier",
             "repo": "eslint-config-prettier",
-            "stars": 5883
+            "stars": 5884
           }
         },
         {
@@ -280,7 +293,7 @@
             "last_commit": "2025-07-11T08:28:23Z",
             "owner": "standard",
             "repo": "standard",
-            "stars": 29440
+            "stars": 29438
           }
         },
         {
@@ -306,7 +319,7 @@
             "last_commit": "2026-04-02T14:08:37Z",
             "owner": "xojs",
             "repo": "xo",
-            "stars": 7972
+            "stars": 7971
           }
         }
       ],
@@ -330,7 +343,7 @@
             "last_commit": "2026-04-04T20:29:07Z",
             "owner": "es-tooling",
             "repo": "eslint-plugin-depend",
-            "stars": 486
+            "stars": 485
           }
         },
         {
@@ -353,7 +366,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T22:48:05Z",
+            "last_commit": "2026-05-14T05:12:03Z",
             "owner": "SonarSource",
             "repo": "SonarJS",
             "stars": 1233
@@ -369,7 +382,7 @@
             "last_commit": "2026-05-12T17:19:22Z",
             "owner": "sindresorhus",
             "repo": "eslint-plugin-unicorn",
-            "stars": 5014
+            "stars": 5015
           }
         },
         {
@@ -418,7 +431,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T13:29:57Z",
+            "last_commit": "2026-05-13T19:39:46Z",
             "owner": "jaydrao215",
             "repo": "deslint",
             "stars": 2
@@ -466,7 +479,7 @@
             "last_commit": "2026-04-29T22:46:28Z",
             "owner": "amilajack",
             "repo": "eslint-plugin-compat",
-            "stars": 3169
+            "stars": 3170
           }
         },
         {
@@ -654,7 +667,7 @@
             "last_commit": "2026-04-20T02:52:40Z",
             "owner": "BenoitZugmeyer",
             "repo": "eslint-plugin-html",
-            "stars": 458
+            "stars": 457
           }
         },
         {
@@ -664,7 +677,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-10T08:33:53Z",
+            "last_commit": "2026-05-13T21:31:25Z",
             "owner": "eslint",
             "repo": "markdown",
             "stars": 565
@@ -683,7 +696,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T09:16:53Z",
+            "last_commit": "2026-05-14T00:55:53Z",
             "owner": "angular-eslint",
             "repo": "angular-eslint",
             "stars": 1783
@@ -699,7 +712,7 @@
             "last_commit": "2025-11-14T10:22:39Z",
             "owner": "EmmanuelDemey",
             "repo": "eslint-plugin-angular",
-            "stars": 621
+            "stars": 620
           }
         },
         {
@@ -709,7 +722,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T15:53:10Z",
+            "last_commit": "2026-05-13T09:58:23Z",
             "owner": "ota-meshi",
             "repo": "eslint-plugin-astro",
             "stars": 426
@@ -761,10 +774,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-13T02:16:32Z",
+            "last_commit": "2026-05-13T21:40:42Z",
             "owner": "meteor",
             "repo": "meteor",
-            "stars": 44781
+            "stars": 44780
           }
         },
         {
@@ -789,7 +802,7 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-05-13T05:33:40Z",
+                "last_commit": "2026-05-13T15:21:00Z",
                 "owner": "jsx-eslint",
                 "repo": "eslint-plugin-react",
                 "stars": 9281
@@ -802,10 +815,10 @@
               "repo_info": {
                 "archived": false,
                 "language": "JavaScript",
-                "last_commit": "2026-05-12T16:44:34Z",
+                "last_commit": "2026-05-13T21:14:47Z",
                 "owner": "facebook",
                 "repo": "react",
-                "stars": 244992
+                "stars": 245000
               }
             },
             {
@@ -938,10 +951,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T14:52:53Z",
+            "last_commit": "2026-05-13T22:15:54Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43899
+            "stars": 43895
           }
         },
         {
@@ -1004,7 +1017,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-12T16:57:05Z",
+            "last_commit": "2026-05-13T08:42:31Z",
             "owner": "yeonjuan",
             "repo": "html-eslint",
             "stars": 261
@@ -1099,7 +1112,7 @@
             "last_commit": "2026-05-12T16:40:43Z",
             "owner": "mdx-js",
             "repo": "eslint-mdx",
-            "stars": 300
+            "stars": 298
           }
         },
         {
@@ -1260,7 +1273,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-06T12:00:42Z",
+            "last_commit": "2026-05-13T14:33:47Z",
             "owner": "wikimedia",
             "repo": "eslint-plugin-no-jquery",
             "stars": 33
@@ -1276,7 +1289,7 @@
             "last_commit": "2026-05-04T11:30:17Z",
             "owner": "gajus",
             "repo": "eslint-plugin-jsdoc",
-            "stars": 1215
+            "stars": 1214
           }
         },
         {
@@ -1391,10 +1404,10 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-12T13:19:47Z",
+            "last_commit": "2026-05-13T13:01:36Z",
             "owner": "francoismassart",
             "repo": "eslint-plugin-tailwindcss",
-            "stars": 2062
+            "stars": 2061
           }
         },
         {
@@ -1407,7 +1420,7 @@
             "last_commit": "2026-04-28T06:24:06Z",
             "owner": "schoero",
             "repo": "eslint-plugin-better-tailwindcss",
-            "stars": 774
+            "stars": 775
           }
         }
       ],
@@ -1562,7 +1575,7 @@
             "last_commit": "2026-05-12T21:46:20Z",
             "owner": "javierbrea",
             "repo": "eslint-plugin-boundaries",
-            "stars": 883
+            "stars": 885
           }
         },
         {
@@ -1679,7 +1692,7 @@
             "last_commit": "2026-05-12T12:01:43Z",
             "owner": "eslint-functional",
             "repo": "eslint-plugin-functional",
-            "stars": 974
+            "stars": 972
           }
         },
         {
@@ -1694,7 +1707,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-03T13:22:52Z",
+            "last_commit": "2026-05-13T16:20:32Z",
             "owner": "hiroya-uga",
             "repo": "eslint-plugin-ime-safe-form",
             "stars": 9
@@ -1723,7 +1736,7 @@
             "last_commit": "2026-04-27T17:30:38Z",
             "owner": "import-js",
             "repo": "eslint-plugin-import",
-            "stars": 5910
+            "stars": 5911
           }
         },
         {
@@ -1736,7 +1749,7 @@
             "last_commit": "2026-03-16T05:56:32Z",
             "owner": "un-ts",
             "repo": "eslint-plugin-import-x",
-            "stars": 715
+            "stars": 714
           }
         },
         {
@@ -1875,7 +1888,7 @@
             "last_commit": "2026-03-28T03:48:30Z",
             "owner": "eslint-community",
             "repo": "eslint-plugin-security",
-            "stars": 2347
+            "stars": 2348
           }
         },
         {
@@ -1943,7 +1956,7 @@
             "last_commit": "2026-04-06T20:30:04Z",
             "owner": "lydell",
             "repo": "eslint-plugin-simple-import-sort",
-            "stars": 2442
+            "stars": 2441
           }
         },
         {
@@ -1956,7 +1969,7 @@
             "last_commit": "2026-05-10T11:22:16Z",
             "owner": "azat-io",
             "repo": "eslint-plugin-perfectionist",
-            "stars": 2864
+            "stars": 2865
           }
         },
         {
@@ -2126,7 +2139,7 @@
           "repo_info": {
             "archived": false,
             "language": "JavaScript",
-            "last_commit": "2026-05-12T21:35:23Z",
+            "last_commit": "2026-05-13T15:54:05Z",
             "owner": "cypress-io",
             "repo": "eslint-plugin-cypress",
             "stars": 726
@@ -2215,7 +2228,7 @@
                 "last_commit": "2026-05-08T01:06:13Z",
                 "owner": "vitest-dev",
                 "repo": "eslint-plugin-vitest",
-                "stars": 482
+                "stars": 481
               }
             }
           ],
@@ -2227,7 +2240,7 @@
             "last_commit": "2026-05-08T01:06:13Z",
             "owner": "vitest-dev",
             "repo": "eslint-plugin-vitest",
-            "stars": 482
+            "stars": 481
           }
         },
         {
@@ -2316,7 +2329,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T21:50:31Z",
+            "last_commit": "2026-05-13T12:45:55Z",
             "owner": "testing-library",
             "repo": "eslint-plugin-testing-library",
             "stars": 1055
@@ -2335,10 +2348,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T14:52:53Z",
+            "last_commit": "2026-05-13T22:15:54Z",
             "owner": "babel",
             "repo": "babel",
-            "stars": 43899
+            "stars": 43895
           }
         },
         {
@@ -2480,9 +2493,9 @@
             "archived": false,
             "language": "JavaScript",
             "last_commit": "2025-02-15T01:32:11Z",
-            "owner": "facebook",
+            "owner": "react",
             "repo": "create-react-app",
-            "stars": 103389
+            "stars": 103387
           }
         },
         {
@@ -2495,7 +2508,7 @@
             "last_commit": "2026-05-01T16:37:47Z",
             "owner": "sindresorhus",
             "repo": "globals",
-            "stars": 584
+            "stars": 586
           }
         },
         {
@@ -2576,7 +2589,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-12T16:17:09Z",
+            "last_commit": "2026-05-13T16:34:24Z",
             "owner": "mizdra",
             "repo": "eslint-interactive",
             "stars": 448
@@ -2780,7 +2793,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-13T05:54:40.031Z",
+    "last_updated": "2026-05-14T05:54:03.061Z",
     "original_repository": "dustinspecker/awesome-eslint",
     "source_repository": "v1nvn/enhansome-eslint",
     "source_repository_description": null,
